@@ -1,0 +1,3 @@
+# popclip shellscript nested in an applescript 
+name: Say
+applescript: do shell script "say '{popclip text}'"

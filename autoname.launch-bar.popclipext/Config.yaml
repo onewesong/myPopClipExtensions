@@ -1,0 +1,8 @@
+# PopClip LaunchBar example
+name: LaunchBar
+icon: LB
+applescript: | # pipe character begins a multi-line string
+  tell application "LaunchBar"
+    set selection to "{popclip text}"
+  end tell
+# the above lines are indented with two spaces. no tabs allowed in YAML!

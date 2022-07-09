@@ -1,0 +1,4 @@
+# popclip extension to search Zhihu
+name: Zhihu
+icon: search filled ZH
+url: http://www.zhihu.com/search?q=***

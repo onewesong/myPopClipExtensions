@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extension Description</key>
+	<string>Split a comma-separated list into separate lines, and vice versa.</string>
+	<key>Extension Identifier</key>
+	<string>com.pilotmoon.popclip.extension.comma-list</string>
+	<key>Extension Image File</key>
+	<string>CommaList.svg</string>
+	<key>Extension Name</key>
+	<string>Comma List</string>
+</dict>
+</plist>

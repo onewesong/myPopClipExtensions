@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extension Description</key>
+	<string>Convert quantities in metric units to US/imperial units, and vice-versa. Supports lb↔kg, oz↔g, miles↔km, feet/yards↔m, inches↔cm, °F↔°C.</string>
+	<key>Extension Identifier</key>
+	<string>com.pilotmoon.popclip.extension.convert</string>
+	<key>Extension Image File</key>
+	<string>scales.png</string>
+	<key>Extension Name</key>
+	<string>Convert</string>
+	<key>Required Software Version</key>
+	<integer>3785</integer>
+</dict>
+</plist>

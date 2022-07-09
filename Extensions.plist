@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Installed Extensions</key>
+	<array>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>autoid.autoname.zhihu.popclipext</string>
+			<key>Extension Name</key>
+			<string>Zhihu</string>
+			<key>Package Name</key>
+			<string>autoname.zhihu.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>autoid.autoname.code-surround.popclipext</string>
+			<key>Extension Name</key>
+			<string>code surround</string>
+			<key>Package Name</key>
+			<string>autoname.code-surround.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.make-sticky</string>
+			<key>Extension Name</key>
+			<string>Stickies</string>
+			<key>Package Name</key>
+			<string>MakeSticky.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.timestamp</string>
+			<key>Extension Name</key>
+			<string>Timestamp</string>
+			<key>Package Name</key>
+			<string>Timestamp.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.ripperhe.popclip.extension.Bob</string>
+			<key>Extension Name</key>
+			<string>Bob v2</string>
+			<key>Package Name</key>
+			<string>Bob.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.formatting</string>
+			<key>Extension Name</key>
+			<string>Formatting</string>
+			<key>Package Name</key>
+			<string>Formatting.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.unix-time</string>
+			<key>Extension Name</key>
+			<string>Unix Time</string>
+			<key>Package Name</key>
+			<string>UnixTime.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>autoid.autoname.ones.popclipext</string>
+			<key>Extension Name</key>
+			<string>ones</string>
+			<key>Package Name</key>
+			<string>autoname.ones.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.shuffle</string>
+			<key>Extension Name</key>
+			<string>Shuffle</string>
+			<key>Package Name</key>
+			<string>Shuffle.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.copy-as-markdown</string>
+			<key>Extension Name</key>
+			<string>Copy as Markdown</string>
+			<key>Package Name</key>
+			<string>CopyAsMarkdown.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>autoid.autoname.say.popclipext</string>
+			<key>Extension Name</key>
+			<string>Say</string>
+			<key>Package Name</key>
+			<string>autoname.say.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>autoid.autoname.markdown-formatting.popclipext</string>
+			<key>Extension Name</key>
+			<string>Markdown Formatting</string>
+			<key>Package Name</key>
+			<string>autoname.markdown-formatting.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.comma-list</string>
+			<key>Extension Name</key>
+			<string>Comma List</string>
+			<key>Package Name</key>
+			<string>CommaList.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.convert</string>
+			<key>Extension Name</key>
+			<string>Convert</string>
+			<key>Package Name</key>
+			<string>Convert.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.quotes</string>
+			<key>Extension Name</key>
+			<string>Quotes</string>
+			<key>Package Name</key>
+			<string>Quotes.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.urlencode</string>
+			<key>Extension Name</key>
+			<string>URL Encode</string>
+			<key>Package Name</key>
+			<string>URLEncode.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>autoid.autoname.dig.popclipext</string>
+			<key>Extension Name</key>
+			<string>dig</string>
+			<key>Package Name</key>
+			<string>autoname.dig.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.brummelhook.popclip.extension.OpenInVSCode</string>
+			<key>Extension Name</key>
+			<string>Open In VS Code</string>
+			<key>Package Name</key>
+			<string>OpenInVSCode.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.dash</string>
+			<key>Extension Name</key>
+			<string>Dash</string>
+			<key>Package Name</key>
+			<string>Dash.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.alenpuzic.popclip.extension.whois</string>
+			<key>Extension Name</key>
+			<string>Whois</string>
+			<key>Package Name</key>
+			<string>WhoIs.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.sidenotes</string>
+			<key>Extension Name</key>
+			<string>SideNotes</string>
+			<key>Package Name</key>
+			<string>SideNotes.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>autoid.autoname.curl.popclipext</string>
+			<key>Extension Name</key>
+			<string>curl</string>
+			<key>Package Name</key>
+			<string>autoname.curl.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.wesong.popclip.extension.copycode</string>
+			<key>Extension Name</key>
+			<string>copy code</string>
+			<key>Package Name</key>
+			<string>copycode.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.charcount</string>
+			<key>Extension Name</key>
+			<string>Character Count</string>
+			<key>Package Name</key>
+			<string>CharCount.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.base64</string>
+			<key>Extension Name</key>
+			<string>Base64</string>
+			<key>Package Name</key>
+			<string>Base64.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.large-type</string>
+			<key>Extension Name</key>
+			<string>Large Type</string>
+			<key>Package Name</key>
+			<string>LargeType.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.calculate</string>
+			<key>Extension Name</key>
+			<string>Calculate</string>
+			<key>Package Name</key>
+			<string>Calculate.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>autoid.iconpreview.popclipext</string>
+			<key>Extension Name</key>
+			<string>Icon Preview</string>
+			<key>Package Name</key>
+			<string>IconPreview.popclipext</string>
+		</dict>
+	</array>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>

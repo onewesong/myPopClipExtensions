@@ -1,0 +1,4 @@
+# popclip await example
+name: Await Test
+javascript: | 
+  popclip.showText('Boo!')

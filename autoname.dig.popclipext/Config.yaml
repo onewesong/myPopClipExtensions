@@ -1,0 +1,3 @@
+# popclip shellscript nested in an applescript 
+name: dig
+applescript: do shell script "dig '{popclip text}'|/usr/local/bin/large"

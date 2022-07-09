@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extension Description</key>
+	<string>Evaluate the text as a mathematical expression.</string>
+	<key>Extension Identifier</key>
+	<string>com.pilotmoon.popclip.extension.calculate</string>
+	<key>Extension Image File</key>
+	<string>calc.png</string>
+	<key>Extension Name</key>
+	<string>Calculate</string>
+</dict>
+</plist>

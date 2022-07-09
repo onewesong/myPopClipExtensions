@@ -1,0 +1,9 @@
+# popclip JS network example
+name: Download Text
+icon: symbol:square.and.arrow.down.fill
+requirements: [url]
+entitlements: [network]
+javascript: |
+  const axios = require('axios')
+  const response = await axios.get(popclip.input.data.urls[0]) // throws for non-2xx status
+  popclip.showText(response.data)

@@ -1,0 +1,5 @@
+# popclip shellscript nested in an applescript 
+name: curl
+requirements: [url]
+applescript: do shell script "curl '{popclip text}'"
+after: show-result

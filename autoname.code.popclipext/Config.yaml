@@ -1,0 +1,3 @@
+# popclip shellscript nested in an applescript 
+name: Code
+applescript: do shell script "cat <<-EOF\n{popclip text}\nEOF|/usr/local/bin/code -"

@@ -1,0 +1,10 @@
+# popclip js + multi action example
+name: Markdown Formatting
+requirements: [text, paste]
+actions:
+- title: Markdown Bold # note: actions have a `title`, not a `name`
+  icon: circle filled B
+  javascript: popclip.pasteText('**' + popclip.input.text + '**')
+- title: Markdown Italic
+  icon: circle filled I
+  javascript: popclip.pasteText('*' + popclip.input.text + '*')

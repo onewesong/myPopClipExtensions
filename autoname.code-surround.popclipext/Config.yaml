@@ -1,0 +1,7 @@
+# popclip code surround
+name: code surround
+requirements: [text, paste]
+actions:
+- title: Markdown Url
+  icon: circle filled U
+  javascript: popclip.pasteText('[](' + popclip.input.text + ')')
